@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/edvakf/fluent-plugin-line-notify.svg?branch=master)](https://travis-ci.org/edvakf/fluent-plugin-line-notify)
+
 # fluent-plugin-line-notify
 
 fluent-plugin-line-notify is a fluentd plugin to call LINE Notify API.
