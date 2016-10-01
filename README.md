@@ -23,6 +23,8 @@ fluent-plugin-line-notify is a fluentd plugin to call LINE Notify API.
       message_template You say <%= record['k1'] %>, I say <%= record['k2'] %>.
     </match>
 
+![](example/screenshot.png)
+
 ## Testing
 
     bundle install
